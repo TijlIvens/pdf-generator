@@ -20,7 +20,7 @@ interface PuppeteerOptions {
 
 const pdfOptions = {
   width: "8.3in",
-  height: "11.75in",
+  height: "11.8in",
   // format: 'A4',
   printBackground: true,
 };
